@@ -306,7 +306,7 @@ Possible enhancements include:
 
 # Author
 
-**Ebenezer Alaere*
+*Ebenezer Alaere*
 
 Connect with me on LinkedIn and feel free to explore this project or provide feedback!
 
