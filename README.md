@@ -275,38 +275,9 @@ Based on the findings:
 
 <img width="1049" height="590" alt="DASHBOARD" src="https://github.com/user-attachments/assets/043c0747-c634-4e5f-bded-0d4c09957e0d" />
 
-
-Example:
-
-```
-images/dashboard.png
-```
-
 ---
 
-# 📁 Project Structure
-
-```
-Investment-Preference-Analysis/
-│
-├── Dataset/
-│   └── Investment Preference.csv
-│
-├── PowerBI/
-│   └── Investment Preference Dashboard.pbix
-│
-├── Images/
-│   └── Dashboard.png
-│
-├── Documentation/
-│   └── Business Questions.pdf
-│
-├── README.md
-```
-
----
-
-# 🚀 Future Improvements
+#  Future Improvements
 
 Possible enhancements include:
 
@@ -318,7 +289,7 @@ Possible enhancements include:
 
 ---
 
-# 📚 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -333,11 +304,9 @@ Possible enhancements include:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
-**Ebenezer Alaere**
-
-Aspiring Data Analyst passionate about transforming raw data into actionable insights through Excel, Power BI, SQL, and data storytelling.
+**Ebenezer Alaere*
 
 Connect with me on LinkedIn and feel free to explore this project or provide feedback!
 
